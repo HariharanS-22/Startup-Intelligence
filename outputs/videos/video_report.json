@@ -1,0 +1,14 @@
+{
+    "project": "Startup Intelligence",
+    "agent": "VideoAgent",
+    "provider": "Magic Hour",
+    "status": "complete",
+    "model": "ltx-2.5",
+    "requested_duration_seconds": 10,
+    "resolution": "480p",
+    "aspect_ratio": "16:9",
+    "video_path": "H:\\AI_agent\\outputs\\videos\\startup_workflow_explainer.mp4",
+    "video_size_bytes": 1566582,
+    "credits_charged": 240,
+    "generation_time_seconds": 30.55
+}

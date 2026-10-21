@@ -236,7 +236,7 @@ def main():
 
     # Save reports.
     try:
-        output_dir = Path("output")
+        output_dir = Path("outputs")
         output_dir.mkdir(parents=True, exist_ok=True)
 
         json_path = output_dir / "startup_report.json"
